@@ -1,2 +1,2 @@
 # ControleDeEstoque
-Sistema para controle de estoque.
+Sistema para controle de estoque, WPF
